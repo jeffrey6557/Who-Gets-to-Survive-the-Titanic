@@ -4,6 +4,7 @@ Who-Gets-to-Survive-the-Titanic
 Midterm Project, Harvard Math 156. Chang Liu and Alex Patel
 
 You can view the presentation at http://rpubs.com/jeffrey6557/52266
+
 ===============================
 
 **Introduction**
